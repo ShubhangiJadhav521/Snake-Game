@@ -1,2 +1,2 @@
 # Snake-Game
-Snake Game project using Javascript
+Snake Game project using HTML,CSS,Javascript.
